@@ -44,6 +44,7 @@ RUN apt-get update \
        dwarves \
        f2fs-tools \
        fakeroot \
+       fdisk \
        flex \
        g++-8-arm-linux-gnueabihf \
        gawk \
